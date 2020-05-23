@@ -1,6 +1,6 @@
-f = open("python.txt","r")
+f = open("csharp.txt","r")
 for x in f:
-    fp = open("python.sh","a")
+    fp = open("csharp.sh","a")
     fp.write("git clone https://github.com/"+x) 
     fp.close()
 f.close()   
