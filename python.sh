@@ -24,7 +24,6 @@ sudo git clone https://github.com/dltpdn/insightbook.opencv_project_python
 sudo git clone https://github.com/ebranca/owasp-pysec
 sudo git clone https://github.com/GalvanizeDataScience/Opinion-Mining-Project
 sudo git clone https://github.com/google/aiyprojects-raspbian
-sudo git clone https://github.com/google/aiyprojects-raspbian
 sudo git clone https://github.com/graphql-python/graphene-django
 sudo git clone https://github.com/har07/PySastrawi
 sudo git clone https://github.com/IFinners/automate-the-boring-stuff-projects
